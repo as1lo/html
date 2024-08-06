@@ -47,6 +47,15 @@ TAGS ----------------------------------------------------
 	</div>: divisão de página (tag genérica)
 
 	</a href="">: cria link
+		href
+			mailto:
+			'arquivo.zip'
+		title
+		target
+			_blank
+			_parent
+			_self
+			_top
 
 	</ol>: lista ordenada
 		</li>: item
