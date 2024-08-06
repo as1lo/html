@@ -69,4 +69,10 @@ TAGS ----------------------------------------------------
 
 	</input>
 
+	<textarea>
+
+	<select>
+
+	<option>
+
 	</label>: nome para cada campo
