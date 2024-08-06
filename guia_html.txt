@@ -1,0 +1,63 @@
+| HTML |
+
+
+TAGS ----------------------------------------------------
+
+	</head>: topo do site
+
+		<meta>:
+		<style>
+		<link>
+		<script>
+		</title>:
+
+	</body>: conteúdo da página
+
+	</h1>: titulo
+	</h2 ate /h6>
+
+	</p>
+
+	<span>: legenda em formulário, imagem etc
+
+	<br/>
+	
+	<hr/> linha horizontal
+
+	</b>: negrito
+
+	</i> italico
+
+	<img src="">: imagem
+		alt: label da imagem
+		title
+
+	</header>: cabeçalho
+
+	</main>: conteúdo principal do corpo
+
+	</article>: 
+
+	</footer>: rodapé
+
+	</section>: sessão da página
+
+	</nav>: barra de navegação
+
+	</div>: divisão de página (tag genérica)
+
+	</a href="">: cria link
+
+	</ol>: lista ordenada
+		</li>: item
+
+	</ul>: lista não ordenada
+		</li>: item
+
+	</button>
+
+	</form>
+
+	</input>
+
+	</label>: nome para cada campo
