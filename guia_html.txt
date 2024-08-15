@@ -76,3 +76,42 @@ TAGS ----------------------------------------------------
 	<option>
 
 	</label>: nome para cada campo
+
+
+HTML SEMÂNTICO ----------------------------------------------------
+
+	</header>: cabeçalho de um documento ou seção (usar elemento de imagem, parágrafo, título, lista de navegação)
+		</h1>
+
+	</section>: descreve seção/tópico de um documento
+		</h3>
+		</p>
+
+	</article>: conteúdo que não precisa de outro pra fazer sentido
+		</h3>
+		</p>
+
+	</nav>: representa agrupamento de link de navegação.
+		</ul>
+			</li>
+
+	</aside>: informação adicional ou complementar ao conteúdo principal
+
+
+	</main>: informa o conteúdo principal da página.
+
+
+	</figure>: inserção de figura.
+		</img src="">
+		</figcaption>
+
+	</footer>: rodapé (dentro do body) 
+		</p>
+
+	</a href="">: descreve link
+
+	</em>: ênfase em uma palavra (mostra em italico)
+
+	</strong>: destaca uma parte do texto.
+
+	</cite>: 
